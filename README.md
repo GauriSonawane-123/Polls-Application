@@ -1,16 +1,17 @@
 # Polls-Application
-This is a Django-based web application that allows users to participate in polls by voting on various questions. It features a user registration system with authentication, ensuring that only registered users can vote and view poll results.The application is designed with a modern and responsive UI using Bootstrap, providing a seamless user experience. Features Key Features:
+This is a Django-based web application that allows users to participate in polls by voting on various questions. It features a user registration system with authentication, ensuring that only registered users can vote and view poll results.The application is designed with a modern and responsive UI using Bootstrap, providing a seamless user experience. 
+**Features Key Features:**
 User registration and authentication
 Secure voting system with one vote per user per poll
 Dynamic display of poll results
 Responsive design for better usability
 
 Technologies Used :
-Frontend: HTML, CSS, Bootstrap
-Backend: Python (Django)
-Database: SQLite
+**Frontend**: HTML, CSS, Bootstrap
+**Backend**: Python (Django)
+**Database**: SQLite
 
-Installation and Setup
+**Installation and Setup**
 Follow these steps to install and set up the project on your local machine.
 
 1. Clone the Repository
