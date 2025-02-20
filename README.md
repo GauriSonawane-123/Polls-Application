@@ -7,9 +7,9 @@ Dynamic display of poll results
 Responsive design for better usability
 
 Technologies Used :
-**Frontend**: HTML, CSS, Bootstrap
-**Backend**: Python (Django)
-**Database**: SQLite
+**Frontend**: HTML, CSS, Bootstrap                                                                                                                                                        
+**Backend**: Python (Django)                                                                                                                                                              
+**Database**: SQLite                                                                                                                                                                     
 
 **Installation and Setup**
 Follow these steps to install and set up the project on your local machine.
